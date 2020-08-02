@@ -10,7 +10,7 @@ A animação .gif será gerada automaticamente.
 - ImageMagick
 
 <p align="center"> 
-    <img src="example.png" align="left" width="10px"></img>
+    <img src="example.png" align="left" width="400px"></img>
 </p>
 
 ### por Daniel Marostica
