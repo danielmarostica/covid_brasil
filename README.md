@@ -9,4 +9,4 @@ A animação .gif será gerada automaticamente.
 - Python 3.5+
 - ImageMagick
 
-<p align="center"> <img src="example.png" align="left" width="400px"></img> </p>
+<p align="center"> <img src="example.png" align="left" width="500px"></img> </p>
