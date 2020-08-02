@@ -1,4 +1,4 @@
-# COVID-19 -- Animação da evolução dos casos da doença no Brasil, por estado
+# COVID-19 - Animação da evolução dos casos da doença no Brasil, por estado
 
 ## Instruções
 - Faça download dos dados em https://covid.saude.gov.br;
@@ -9,8 +9,4 @@ A animação .gif será gerada automaticamente.
 - Python 3.5+
 - ImageMagick
 
-<p align="center"> 
-    <img src="example.png" align="left" width="400px"></img>
-</p>
-
-### por Daniel Marostica
+<p align="center"> <img src="example.png" align="left" width="400px"></img> </p>
